@@ -1,0 +1,2 @@
+# seatmate_authority
+seatmate_authority
